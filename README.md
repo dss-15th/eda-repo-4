@@ -2,7 +2,7 @@ EDA
 
 Analyzing audience and Sales data of Korean Movie
 =================================================
-Various variables such as number of audience and total sales were studied in the project. Our goal was to identify variables that affect the success of a movie.
+Does horror movie rank high on summer seasons? Does the movie starring a strong ticket power actor rank higher than those do not? With these curiosities in mind, we decided to look into some data on movie and study on successful. Our goal was to explore, study, and identify variables, such as number of audience and total sales, that affect the success of a movie. 
 
 Getting Started
 ---------------
